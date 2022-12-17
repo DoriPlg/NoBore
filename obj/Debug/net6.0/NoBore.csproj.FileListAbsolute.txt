@@ -1,0 +1,5 @@
+/home/dori/Documents/Code/NoBore/obj/Debug/net6.0/NoBore.csproj.AssemblyReference.cache
+/home/dori/Documents/Code/NoBore/obj/Debug/net6.0/NoBore.GeneratedMSBuildEditorConfig.editorconfig
+/home/dori/Documents/Code/NoBore/obj/Debug/net6.0/NoBore.AssemblyInfoInputs.cache
+/home/dori/Documents/Code/NoBore/obj/Debug/net6.0/NoBore.AssemblyInfo.cs
+/home/dori/Documents/Code/NoBore/obj/Debug/net6.0/NoBore.csproj.CoreCompileInputs.cache
